@@ -1,0 +1,24 @@
+{
+  "name": "herokuServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmed199764/herokuServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmed199764/herokuServer/issues"
+  },
+  "homepage": "https://github.com/Ahmed199764/herokuServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
